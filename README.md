@@ -2,128 +2,67 @@
 
 # MAMOUN SRAIHEEN
 
-### SOFTWARE ENGINEERING · INFORMATION TECHNOLOGY · CYBER SECURITY
+### Information Technology Student
 
-<p>
-  <a href="https://github.com/misw21">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/BTEC%20Level%203-2563EB?style=flat-square">
-  <img src="https://img.shields.io/badge/IT%20Student-0F172A?style=flat-square">
-</p>
+Software Engineering · Software Development · Cyber Security · Game Development
+
+[GitHub](https://github.com/misw21)
 
 </div>
 
 ---
 
-## PROFILE
+## ABOUT
 
-I'm Mamoun Sraiheen, an Information Technology student from Jordan focused on software development and practical technology projects.
+I'm an Information Technology student from Jordan interested in software engineering and practical technology projects.
 
-I enjoy building applications, websites, games, and technical systems while developing my knowledge in software engineering and cyber security.
+I enjoy building applications, websites, games, and database systems while developing my programming and problem-solving skills.
 
-My GitHub is where I document my projects, experiments, coursework, and progress as I continue developing my technical skills.
-
----
-
-## CORE FOCUS
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### SOFTWARE
-
-Python
-Dart
-Flutter
-SQL
-
-</td>
-
-<td align="center" width="25%">
-
-### DEVELOPMENT
-
-Web
-Mobile
-Applications
-Games
-
-</td>
-
-<td align="center" width="25%">
-
-### SECURITY
-
-Cyber Security
-Incident Management
-System Security
-
-</td>
-
-<td align="center" width="25%">
-
-### DESIGN
-
-UI / UX
-Figma
-Responsive Design
-User Experience
-
-</td>
-
-</tr>
-</table>
+My GitHub contains my academic projects, development work, experiments, and technical documentation.
 
 ---
 
-## TECHNOLOGY
+## FOCUS
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,dart,html,css,js&perline=5">
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,unity,gamemaker,git,github,figma,sqlite&perline=7">
-</p>
+| Area               | Technologies                         |
+| ------------------ | ------------------------------------ |
+| Programming        | Python · Dart · JavaScript           |
+| Mobile Development | Flutter · Dart                       |
+| Web Development    | HTML · CSS · JavaScript              |
+| Databases          | SQLite · SQL                         |
+| Game Development   | GameMaker · Unity                    |
+| Design             | Figma · UI/UX                        |
+| Security           | Cyber Security · Incident Management |
+| Development        | Git · GitHub                         |
 
 ---
 
-# SELECTED WORK
+# SELECTED PROJECTS
 
-## 01 — Cross-Traps
+## Cross-Traps 2D Platformer
 
-### 2D Platformer Game
+A 2D platformer game developed as part of my Computer Games Development work.
 
-A 2D platformer developed as part of my Computer Games Development work.
+### Focus
 
-The project focuses on creating an interactive game experience while applying game design, mechanics, level development, player interaction, and testing.
+* Player movement
+* Game mechanics
+* Level design
+* Collision systems
+* User interaction
+* Testing
 
-**Key Areas**
-
-`Game Design` `Player Movement` `Level Design` `Collision` `Testing`
-
-**Technology**
+### Technology
 
 `GameMaker`
 
 ---
 
-## 02 — MIS Fitness
-
-### Fitness & Activity Application
+## MIS Fitness App
 
 A mobile application developed with Flutter and Dart.
 
-The application allows users to enter personal fitness information, calculate fitness-related values, track records, and view data over different periods.
-
-**Features**
+### Features
 
 * Fitness calculations
 * Calorie calculations
@@ -136,25 +75,28 @@ The application allows users to enter personal fitness information, calculate fi
 * Dark mode
 * Multiple languages
 
-**Technology**
+### Technology
 
 `Flutter` `Dart` `SQLite`
 
 ---
 
-## 03 — Hole In One
+## Hole In One Golf Resort
 
-### Golf Resort Website
+A website project created for a golf resort in Portugal.
 
-A website concept created for a golf resort in Portugal.
+### Focus
 
-The project focuses on user experience, responsive design, navigation, accommodation information, golf services, packages, and booking interaction.
+* Responsive design
+* User experience
+* Navigation
+* Resort information
+* Golf packages
+* Accommodation
+* Booking experience
+* Interface design
 
-**Key Areas**
-
-`Web Design` `UI/UX` `Responsive Design` `User Experience`
-
-**Technology**
+### Technology
 
 `HTML` `CSS` `JavaScript` `Figma`
 
@@ -164,81 +106,114 @@ The project focuses on user experience, responsive design, navigation, accommoda
 
 ## BTEC Level 3 Information Technology
 
-My studies cover multiple areas of Information Technology.
+My studies cover several areas of Information Technology.
 
-| Area                           | Focus                            |
-| :----------------------------- | :------------------------------- |
+| Subject                        | Area                             |
+| ------------------------------ | -------------------------------- |
 | Information Technology Systems | IT systems and infrastructure    |
-| Website Development            | Web design and development       |
-| Mobile App Development         | Application development          |
-| Computer Games Development     | Game design and development      |
-| IT Technical Support           | Technical support and management |
+| Website Development            | Web development                  |
+| Mobile App Development         | Mobile applications              |
+| Computer Games Development     | Game development                 |
+| IT Technical Support           | Technical support                |
 | Cyber Security                 | Security and incident management |
 | Artificial Intelligence        | AI concepts and applications     |
 
 ---
 
-# CURRENT DIRECTION
+# CURRENTLY LEARNING
 
 ```text
-                SOFTWARE ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-      SOFTWARE        SECURITY       DEVELOPMENT
-          │              │              │
-      Programming    Cyber Security   Applications
-          │              │              │
-       Databases     Systems          Web / Mobile
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                  PRACTICAL PROJECTS
+Software Engineering
+        │
+        ├── Programming
+        │
+        ├── Application Development
+        │
+        ├── Web Development
+        │
+        ├── Databases
+        │
+        ├── Cyber Security
+        │
+        └── Software Design
 ```
 
-I'm currently working on improving my knowledge in:
+Current learning areas:
 
-* Software Engineering
 * Python
 * Dart
 * Flutter
 * Web Development
-* Databases
+* SQL
 * Cyber Security
-* Git and GitHub
+* Git
+* GitHub
+* Software Engineering
 * Problem Solving
 
 ---
 
-# DEVELOPMENT APPROACH
+# HOW I BUILD PROJECTS
 
-### LEARN
+### 01 — PLAN
 
-Understand the technology and the problem.
+Understand the requirements and define the goal.
 
-↓
+### 02 — DESIGN
 
-### DESIGN
+Plan the interface, structure, and user experience.
 
-Plan the structure and user experience.
+### 03 — DEVELOP
 
-↓
+Build the system and implement its features.
 
-### BUILD
+### 04 — TEST
 
-Turn the idea into a working project.
+Test functionality and identify problems.
 
-↓
+### 05 — IMPROVE
 
-### TEST
+Use testing and feedback to improve the project.
 
-Find problems and verify the system.
+---
 
-↓
+# GOALS
 
-### IMPROVE
+My main goal is to study Software Engineering and continue developing my technical skills.
 
-Use feedback to improve the next version.
+### Short Term
+
+* Improve programming skills
+* Build more software projects
+* Improve Git and GitHub knowledge
+* Develop stronger database skills
+* Learn more about cyber security
+
+### Long Term
+
+* Study Software Engineering
+* Build professional software
+* Contribute to open-source projects
+* Develop real-world applications
+* Build a strong software development portfolio
+
+---
+
+# PROJECT STRUCTURE
+
+I aim to keep my repositories organized and documented.
+
+```text
+Repository
+│
+├── Source Code
+├── Documentation
+├── Screenshots
+├── Tests
+└── README
+```
+
+Each project should explain what it does, how it was built, and what I learned from it.
 
 ---
 
@@ -246,75 +221,19 @@ Use feedback to improve the next version.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=misw21&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B&icon_color=2563EB">
+### Explore my repositories
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misw21&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B">
+[View Projects](https://github.com/misw21?tab=repositories)
 
 </div>
-
----
-
-# GOALS
-
-### University
-
-Study Software Engineering and continue developing my technical foundation.
-
-### Development
-
-Build applications and systems that solve real problems.
-
-### Security
-
-Develop stronger knowledge in cyber security and system protection.
-
-### Portfolio
-
-Create projects that demonstrate practical development skills.
-
-### Open Source
-
-Contribute to projects and learn from other developers.
-
----
-
-# PROJECT MINDSET
-
-```text
-IDEA
- ↓
-PLAN
- ↓
-DESIGN
- ↓
-DEVELOP
- ↓
-TEST
- ↓
-FEEDBACK
- ↓
-IMPROVE
- ↓
-RELEASE
-```
-
-Every project is an opportunity to learn something new.
 
 ---
 
 <div align="center">
 
-## BUILD · LEARN · IMPROVE
-
-<p>
-  <a href="https://github.com/misw21?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+### BUILD · LEARN · IMPROVE
 
 </div>
-
----
 
 <div align="center">
 
