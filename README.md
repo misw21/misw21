@@ -230,16 +230,17 @@ The project focuses on user experience, responsive design, navigation, accommoda
 
 My studies cover several areas of Information Technology.
 
-| Area                           | Focus                            |
-| ------------------------------ | -------------------------------- |
-| Information Technology Systems | IT systems and infrastructure    |
-| Website Development            | Web design and development       |
-| Mobile App Development         | Mobile applications              |
-| Computer Games Development     | Game design and development      |
-| IT Technical Support           | Technical support and management |
-| Cyber Security                 | Security and incident management |
-| Artificial Intelligence        | AI concepts and applications     |
-
+| Study Unit | Focus |
+|---|---|
+| Information Technology Systems – Strategy, Management and Infrastructure | IT systems, strategy, management and infrastructure |
+| Website Development | Web design and development |
+| Mobile Apps Development | Mobile application development |
+| Computer Games Development | Game design and development |
+| IT Technical Support and Management | Technical support and IT management |
+| Cyber Security and Incident Management | Cyber security and incident management |
+| Introduction to Artificial Intelligence (AI) | Artificial intelligence concepts and applications |
+| Programming | Programming concepts and software development |
+| IT Project Management | IT project planning and management |
 ---
 
 # 🌱 Currently Learning
